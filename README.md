@@ -2,8 +2,10 @@
 
 ### <pre> Give a Star Please...⭐⭐⭐</pre>
 
-- Live Preview: ➡️ [Click to Open](https://asadaliofficials.github.io/Responsive-Pros-and-Cons-Table/)
-- Youtube Tutorial: ➡️ [Click to Open](https://www.youtube.com/@asadali_officials/videos)
+ - Live Preview: ➡️ <a href="https://asadaliofficials.github.io/Responsive-Pros-and-Cons-Table/" target="_blank" rel="noopener noreferrer">Click to Open</a>
+ 
+- Youtube Tutorial: ➡️ <a href="https://www.youtube.com/@asadali_officials/videos" target="_blank" rel="noopener noreferrer">Click to Open</a>
+
 
 ## Screenshots of this Project
 
